@@ -1,0 +1,8 @@
+team: Joo
+
+captain: Seojin
+
+members:
+- Hyuk
+- Jiho
+- Chan
