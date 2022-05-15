@@ -6,3 +6,4 @@ members:
 - Seong
 - Min
 - Jin
+- Park
