@@ -1,0 +1,8 @@
+team: Kim
+
+captain: Jeong
+
+members:
+- Seong
+- Min
+- Jin
