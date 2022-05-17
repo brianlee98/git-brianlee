@@ -7,5 +7,5 @@ coach: Sujin
 members:
 - Juho
 - Cheol
-- Yong
 - Sangjin
+- Bang
